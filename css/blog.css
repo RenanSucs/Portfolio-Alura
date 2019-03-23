@@ -15,3 +15,12 @@
     background-repeat: no-repeat;
     background-position: top center;
 }
+
+.post-blog {
+    padding-bottom: 1.5em;
+    margin-bottom: 1em;
+    background-image: linear-gradient(to right, rgba(200, 200, 200, 0), rgba(200, 200, 200, 1), rgba(200, 200, 200, 0));
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
